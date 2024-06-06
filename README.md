@@ -1,3 +1,17 @@
+## Temp readme
+
+This component is used in conjunction with my other repo "knockoffspotifycarthing"
+
+Basically a very stripped down version of http control that other people have made
+
+it takes in udp messages from my middle man, does things to foobar2000
+
+and foobar2000 sends messages back via tcp like track info, and album art
+
+
+
+
+
 ## fb2k_example
 A minimal project for developing foobar2000 component in VS2022
 
